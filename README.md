@@ -1,2 +1,2 @@
 # MBR-Killer
-This pack was made by Anonymous Leader.
+This file was made by Anonymous Leader.
